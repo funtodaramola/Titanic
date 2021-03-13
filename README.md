@@ -6,4 +6,5 @@ Kaggle Titanic ML competition - using machine learning to create a model that pr
 `conda config --append channels conda-forge`
 ### Create virtualenv then activate it
 `conda create --name titanic --file requirements.txt`  
+
 `conda activate titanic`
